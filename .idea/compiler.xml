@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="a-eureka-server-8761" />
+        <module name="b-serice-feign-8765" />
+        <module name="c-service-ribbon-8764" />
+        <module name="d-server-in-8762" />
+        <module name="d-server-in-8763" />
+        <module name="server-in-super" />
+        <module name="service-zuul-8769" />
+        <module name="springcloud" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="server-in (2)" target="1.8" />
+      <module name="server-in8762" target="1.8" />
+      <module name="server-in8763" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

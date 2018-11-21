@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/a-eureka-server-8761" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/b-serice-feign-8765" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/c-service-ribbon-8764" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/d-server-in-8762" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/d-server-in-8763" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/server-in-super" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/service-zuul-8769" charset="UTF-8" />
+  </component>
+</project>
