@@ -8,3 +8,8 @@
 8764 => Ribbon(负载均衡)  
 8765 => Feign(负载均衡,断路器)  
 8769 => Zuul(路由)  
+  
+测试  
+http://localhost:8769/api-a/hi 多次访问负载均衡  
+  
+http://localhost:8769/api-b/hi 多次访问负载均衡 关闭服务提供 出现断路提示  
