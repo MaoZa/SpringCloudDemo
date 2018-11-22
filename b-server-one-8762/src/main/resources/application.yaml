@@ -1,0 +1,16 @@
+server:
+  port: 8762
+
+spring:
+  application:
+    name: server-hi
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://server.dawnland.cn:3306/springclou?useUnicode=true&characterEncoding=utf8&useSSL=false&allowMultiQueries=true&autoReconnect=true&failOverReadOnly=false
+    username: springclou
+    password: springclou
+
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
