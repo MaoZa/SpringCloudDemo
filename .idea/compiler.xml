@@ -11,15 +11,15 @@
         <module name="c-service-ribbon-8764" />
         <module name="d-server-in-8762" />
         <module name="d-server-in-8763" />
-        <module name="server-in-super" />
-        <module name="service-zuul-8769" />
-        <module name="springcloud" />
+        <module name="e-service-zuul-8769" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="server-in (2)" target="1.8" />
+      <module name="server-in-super" target="1.5" />
       <module name="server-in8762" target="1.8" />
       <module name="server-in8763" target="1.8" />
+      <module name="serverinsupermaven" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
