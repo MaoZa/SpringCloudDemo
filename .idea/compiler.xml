@@ -11,6 +11,8 @@
         <module name="b-server-one-8762" />
         <module name="b-server-two-8763" />
         <module name="c-service-ribbon-8764" />
+        <module name="config-client" />
+        <module name="config-server" />
         <module name="e-service-zuul-8769" />
       </profile>
     </annotationProcessing>

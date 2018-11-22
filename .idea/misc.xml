@@ -16,6 +16,8 @@
         <option value="$PROJECT_DIR$/e-service-zuul-8769/pom.xml" />
         <option value="$PROJECT_DIR$/b-server-one/pom.xml" />
         <option value="$PROJECT_DIR$/b-server-two-8763/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/config-client/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
