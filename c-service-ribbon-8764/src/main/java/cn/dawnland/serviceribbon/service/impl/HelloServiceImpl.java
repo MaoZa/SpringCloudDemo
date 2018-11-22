@@ -15,7 +15,7 @@ public class HelloServiceImpl implements HelloService {
     @HystrixCommand(fallbackMethod = "hiError")
     @Override
     public String hiService(String name) {
-        return restTemplate.getForObject("http://SERVICE-HI/hi?name="+name, String.class);
+        return restTemplate.getForObject("http://SERVER-HI/hi?name="+name, String.class);
     }
 
     public String hiError(String name) {

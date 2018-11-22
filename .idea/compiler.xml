@@ -8,13 +8,16 @@
         <outputRelativeToContentRoot value="true" />
         <module name="a-eureka-server-8761" />
         <module name="b-serice-feign-8765" />
+        <module name="b-server-one-8762" />
+        <module name="b-server-two-8763" />
         <module name="c-service-ribbon-8764" />
-        <module name="d-server-in-8762" />
-        <module name="d-server-in-8763" />
         <module name="e-service-zuul-8769" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="d-server-in-8762" target="1.8" />
+      <module name="d-server-in-8763" target="1.8" />
+      <module name="d-service-in-8764" target="1.8" />
       <module name="server-in (2)" target="1.8" />
       <module name="server-in-super" target="1.5" />
       <module name="server-in8762" target="1.8" />

@@ -1,3 +1,0 @@
-Manifest-Version: 1.0
-Main-Class: cn.dawnland.serverin8762.DServerIn8762Application
-

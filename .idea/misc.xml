@@ -14,10 +14,14 @@
         <option value="$PROJECT_DIR$/server-in-8763/pom.xml" />
         <option value="$PROJECT_DIR$/service-zuul-8769/pom.xml" />
         <option value="$PROJECT_DIR$/e-service-zuul-8769/pom.xml" />
+        <option value="$PROJECT_DIR$/b-server-one/pom.xml" />
+        <option value="$PROJECT_DIR$/b-server-two-8763/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
+        <option value="$PROJECT_DIR$/d-server-in-8762/pom.xml" />
+        <option value="$PROJECT_DIR$/d-server-in-8763/pom.xml" />
         <option value="$PROJECT_DIR$/server-in-super-maven/pom.xml" />
         <option value="$PROJECT_DIR$/server-in8762/pom.xml" />
         <option value="$PROJECT_DIR$/server-in8763/pom.xml" />
